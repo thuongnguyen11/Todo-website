@@ -1,0 +1,14 @@
+.filters {
+    display: flex;
+    list-style: none;
+    margin: 0;
+}
+
+.filter {
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.filter:active {
+    border: 1px solid #c4c4c4;
+}
